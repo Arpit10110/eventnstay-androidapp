@@ -1,0 +1,13 @@
+{
+  "appId": "com.eventnstay.app",
+  "appName": "Eventnstay",
+  "webDir": "dist",
+  "server": {
+    "url": "https://www.eventnstay.com",
+    "cleartext": false,
+    "allowNavigation": [
+      "www.eventnstay.com",
+      "eventnstay.com"
+    ]
+  }
+}

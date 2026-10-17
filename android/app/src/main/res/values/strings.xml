@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Eventnstay</string>
+    <string name="title_activity_main">Eventnstay</string>
+    <string name="package_name">com.eventnstay.app</string>
+    <string name="custom_url_scheme">com.eventnstay.app</string>
+</resources>
